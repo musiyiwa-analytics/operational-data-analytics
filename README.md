@@ -16,7 +16,6 @@ This is the Project official stack:
 Power BI – dashboards & KPIs
 Python – data prep, analytics, prediction
 SQL – querying & data pipelines
-GitHub – portfolio & professionalism
 
 
 #  Structure
